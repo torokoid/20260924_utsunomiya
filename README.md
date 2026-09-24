@@ -207,7 +207,7 @@ p.note { display: none; }
 <a href="20260924_00028.jpeg" target="_blank"><img src="20260924_00028.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260924_00029.jpeg" target="_blank"><img src="20260924_00029.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">ベゴニアが見頃に！</span></h2>
+<h2><span class="yellow">ベゴニアがニッコリ満開！</span></h2>
 <a href="20260924_00030.jpeg" target="_blank"><img src="20260924_00030.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ベルモールに移動してワンちゃんとこんにちは！<br>起きてたのはこの子だけでした</span></h2>
